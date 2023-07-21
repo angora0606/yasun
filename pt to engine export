@@ -1,1 +1,0 @@
-yolo task=detect mode=export  model=path/file.pt device=0
